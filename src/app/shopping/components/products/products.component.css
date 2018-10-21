@@ -1,0 +1,13 @@
+
+
+@media only screen and (max-width: 765px) {
+   .col-3{
+    max-width: none;
+    flex: unset;
+    position: fixed;
+    z-index: 2;
+   }
+   .mRow{
+       padding-top: 350px;
+   }
+}
